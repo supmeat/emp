@@ -1,4 +1,6 @@
+
 public class SignIn{
 	private int id;
-	privateString name;
+	private String name;
+	private String sign_time;
 }
